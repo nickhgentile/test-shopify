@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#121212",
+    "colors_accent_1": "#f20909",
     "colors_accent_2": "#33b452",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -32,7 +32,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 100,
+          "logo_width": 130,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
