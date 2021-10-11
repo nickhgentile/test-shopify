@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#33b452",
+    "colors_accent_1": "#1878b9",
     "colors_accent_2": "#33b452",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -17,7 +17,7 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "inverse",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
@@ -31,7 +31,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "logo_width": 130,
           "logo_position": "middle-left",
           "menu": "main-menu",
