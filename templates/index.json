@@ -27,6 +27,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/rachel-coyne-U7HLzMO4SIY-unsplash.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
@@ -101,7 +102,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "meet-the-pistons-2021-22-rookies",
             "second_image": false,
             "image_padding": false,
             "secondary_background": false
@@ -110,7 +111,7 @@
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "virtual-events-1",
             "image_padding": false,
             "color_scheme": "background-1"
           }
