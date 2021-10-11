@@ -55,8 +55,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Button",
+            "button_link": "shopify:\/\/blogs\/news",
             "button_style_secondary": false
           }
         }
