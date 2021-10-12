@@ -108,10 +108,10 @@
             "color_scheme": "background-1"
           }
         },
-        "350ae1d4-4952-4419-b46e-04e1078873bb": {
-          "type": "image",
+        "ddf45ef6-b941-4024-862c-fe686fc17f49": {
+          "type": "collection",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2020-11-09_at_1.11.11_PM.png",
+            "collection": "events",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -120,7 +120,7 @@
       "block_order": [
         "video",
         "collection",
-        "350ae1d4-4952-4419-b46e-04e1078873bb"
+        "ddf45ef6-b941-4024-862c-fe686fc17f49"
       ],
       "settings": {
         "heading": "More about our moments!",
@@ -131,7 +131,8 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "Some Experiences",
+        "cover_image": "shopify:\/\/shop_images\/buynow_herotile_1.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false
