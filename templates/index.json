@@ -100,15 +100,6 @@
             "image_padding": false
           }
         },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "meet-the-pistons-2021-22-rookies",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
         "collection": {
           "type": "collection",
           "settings": {
@@ -116,12 +107,20 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
+        },
+        "350ae1d4-4952-4419-b46e-04e1078873bb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2020-11-09_at_1.11.11_PM.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
         }
       },
       "block_order": [
         "video",
-        "product",
-        "collection"
+        "collection",
+        "350ae1d4-4952-4419-b46e-04e1078873bb"
       ],
       "settings": {
         "heading": "More about our moments!",
